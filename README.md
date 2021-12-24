@@ -29,7 +29,7 @@
  
   </p>
   
-<h3 align="center">- 📫 Contact me:</h3>
+<h3 align="center">📫 Contact me:</h3>
 
 <p align="center">
   

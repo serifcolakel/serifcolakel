@@ -23,7 +23,7 @@
   <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1000px-Tailwind_CSS_Logo.svg.png" alt="max" width="40" height="40"/> 
   <img  src="https://v4.mui.com/static/logo.png" alt="logo" width="40" height="40"/> 
   <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> 
-  <img  src="https://banner2.cleanpng.com/20180703/yrf/kisspng-matlab-simulink-signal-processing-programming-lang-cube-island-online-survival-3d-5b3b394d2f1946.2068935715306079491929.jpg" alt="matlab" width="40" height="40"/> 
+  <img  src="https://img1.pngindir.com/20181113/zfu/kisspng-logo-karlovac-brand-graphic-design-font-matlab-5beb76d27f1f35.3570732315421580345207.jpg" alt="matlab" width="40" height="40"/> 
   <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="matlab" width="40" height="40"/> 
   <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="matlab" width="40" height="40"/> 
  

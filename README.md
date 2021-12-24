@@ -18,6 +18,8 @@
 <img  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="arduino" width="40" height="40"/> 
+  <img  src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="arduino" width="40" height="40"/> 
+  <img  src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="arduino" width="40" height="40"/> 
   </p>
 
 <p align="center">

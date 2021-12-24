@@ -19,12 +19,12 @@
   <img  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="react" width="40" height="40"/> 
   <img  src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="next" width="40" height="40"/> 
-  <img  src="https://ichi.pro/assets/images/max/724/1*5QD8DKhOjRe-gcYjozlLNQ.png" alt="max" width="40" height="40"/> 
+  <img  src="https://www.kadirbalcin.com/wp-content/uploads/2021/06/0_A70w-WrmSaBVxwAm.png" alt="max" width="40" height="40"/> 
   <img  src="https://v4.mui.com/static/logo.png" alt="logo" width="40" height="40"/> 
   <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> 
   <img  src="https://nollytech.com/wp-content/uploads/2020/06/matlab.png" alt="matlab" width="40" height="40"/> 
-  <img  src=" https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="matlab" width="40" height="40"/> 
-  <img  src=" https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="matlab" width="40" height="40"/> 
+  <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="matlab" width="40" height="40"/> 
+  <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="matlab" width="40" height="40"/> 
  
   </p>
 

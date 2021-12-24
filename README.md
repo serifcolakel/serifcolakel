@@ -1,19 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Serif COLAKEL. 👋
+
+<h3 align="center">I am a newly graduated electrical and electronics engineer. I do masters degree in informatics. Also, I improve my frontend development skills.</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+</p>
+
 - 🔭 I’m currently working on getir-clone
 - 🌱 I’m currently learning React-MongoDB-ML
 
-
-<h3 align="center">- 📫 Contact me:</h3>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=serifcolakel&color=green" alt="serifcolakel :: Profile Stats"></a>
-<a href="mailto:serifcolakel0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-serifcolakel0@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/serifcolakel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@serifcolakel-blue?style=flat&logo=linkedin"></a>
-<a href="https://www.instagram.com/serifcolakell/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-serifcolakell-red?style=flat-square&logo=instagram"></a>
-</p>
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">  
+  
   <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="Unofficial_JavaScript_logo_2" width="40" height="40"/> 
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img  src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="next" width="40" height="40"/>
@@ -28,6 +28,15 @@
    <img  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
  
   </p>
+  
+<h3 align="center">- 📫 Contact me:</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=serifcolakel&color=green" alt="serifcolakel :: Profile Stats"></a>
+<a href="mailto:serifcolakel0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-serifcolakel0@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/serifcolakel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@serifcolakel-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.instagram.com/serifcolakell/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-serifcolakell-red?style=flat-square&logo=instagram"></a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=serifcolakel&show_icons=true&theme=tokyonight" width="450" height="200">

@@ -8,8 +8,8 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=serifcolakel&color=green" alt="serifcolakel :: Profile Stats"></a>
 <a href="mailto:serifcolakel0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-serifcolakel0@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/serifcolakel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@serifcolakel-yellow?style=flat&logo=linkedin"></a>
-<a href="https://www.instagram.com/serifcolakell/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-serifcolakell-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/serifcolakel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@serifcolakel-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.instagram.com/serifcolakell/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-serifcolakell-red?style=flat-square&logo=instagram"></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 

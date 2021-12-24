@@ -14,18 +14,18 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">  
-  <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="react" width="40" height="40"/> 
+  <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="Unofficial_JavaScript_logo_2" width="40" height="40"/> 
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img  src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="next" width="40" height="40"/>
   <img  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   <img  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  
-  <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1000px-Tailwind_CSS_Logo.svg.png" alt="max" width="40" height="40"/> 
+   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+   <img  src="  https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="matlab" width="40" height="40"/> 
+  <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1000px-Tailwind_CSS_Logo.svg.png" alt="Tailwind_CSS_Logo" width="40" height="40"/> 
   <img  src="https://v4.mui.com/static/logo.png" alt="logo" width="40" height="40"/> 
   <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> 
-  <img  src="https://img1.pngindir.com/20181113/zfu/kisspng-logo-karlovac-brand-graphic-design-font-matlab-5beb76d27f1f35.3570732315421580345207.jpg" alt="matlab" width="40" height="40"/> 
-  <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="matlab" width="40" height="40"/> 
-  <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="matlab" width="40" height="40"/> 
+  <img  src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab_Logo" width="40" height="40"/> 
+   <img  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
  
   </p>
 

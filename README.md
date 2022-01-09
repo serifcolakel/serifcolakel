@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 I’m currently working on getir-clone
-- 🌱 I’m currently learning React-MongoDB-ML
+- 🌱 I’m currently learning Redux-MongoDB-NodeJS-ML
 
 <h3 align="center">Languages and Tools:</h3>
 

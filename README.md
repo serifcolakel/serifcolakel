@@ -7,8 +7,8 @@
   
 </p>
 
-- 🔭 I’m currently working on getir-clone
-- 🌱 I’m currently learning Redux-MongoDB-NodeJS-ML
+- 🔭 I’m currently working CRUD-with-Mysql-NodeJS-ReactJS
+- 🌱 I’m currently learning Typescript, React & NextJS Concepts, Backend /w NodeJS
 
 <h3 align="center">Languages and Tools:</h3>
 

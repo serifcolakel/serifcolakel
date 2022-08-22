@@ -7,7 +7,7 @@
   
 </p>
 
-- 🔭 I’m currently working CRUD-with-Mysql-NodeJS-ReactJS
+- 🔭 I’m currently working getir-clone mobile app /w React Native
 - 🌱 I’m currently learning Typescript, React & NextJS Concepts, Backend /w NodeJS
 
 <h3 align="center">Languages and Tools:</h3>

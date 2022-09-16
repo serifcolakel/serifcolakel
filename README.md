@@ -7,8 +7,8 @@
   
 </p>
 
-- 🔭 I’m currently working getir-clone mobile app /w React Native
-- 🌱 I’m currently learning Typescript, React & NextJS Concepts, Backend /w NodeJS
+- 🔭 I’m currently working Build a Fullstack App from Scratch (Next.js, Typescript, Postgres & Prisma)
+- 🌱 I’m currently learning Typescript, React & NextJS Concepts, Backend /w Prisma and Typescript
 
 <h3 align="center">Languages and Tools:</h3>
 

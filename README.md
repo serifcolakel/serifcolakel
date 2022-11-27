@@ -1,14 +1,14 @@
 ### Hi there, I'm Serif COLAKEL. 👋
 
-<h3 align="center">I am a newly graduated electrical and electronics engineer. I do masters degree in informatics. Also, I improve my frontend development skills.</h3>
+<h3 align="center">I am a newly graduated electrical and electronics engineer. I do masters degree in informatics. Also, I improve my Frontend & Backend development skills.</h3>
 
 
 <p align="left">
   
 </p>
 
-- 🔭 I’m currently working Build a Fullstack App from Scratch (Next.js, Typescript, Postgres & Prisma)
-- 🌱 I’m currently learning Typescript, React & NextJS Concepts, Backend /w Prisma and Typescript
+- 🔭 I’m currently working on Mehrzweck
+- 🌱 I’m currently learning Typescript, React, React Native, NextJS & Firebase Concepts, Backend /w Prisma and Typescript<p align="left">
 
 <h3 align="center">Languages and Tools:</h3>
 

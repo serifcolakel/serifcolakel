@@ -7,7 +7,7 @@
   
 </p>
 
-- 🔭 I’m currently working on Mehrzweck
+- 🔭 I’m currently working on Storybook / Typescript.
 - 🌱 I’m currently learning Typescript, React, React Native, NextJS & Firebase Concepts, Backend /w Prisma and Typescript<p align="left">
 
 <h3 align="center">Languages and Tools:</h3>

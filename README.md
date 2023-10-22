@@ -1,6 +1,6 @@
 ### Hi there, I'm Serif COLAKEL. 👋
 
-<h3 align="center">I am a newly graduated electrical and electronics engineer. I do masters degree in informatics. Also, I improve my Frontend & Backend development skills.</h3>
+<h3 align="center">Skilled in React, React Native, Expo, TypeScript, and Redux, I am an experienced Frontend Developer dedicated to creating user-centric applications that drive engagement and enhance the user experience. With a focus on delivering intuitive interfaces and seamless interactions, I strive to exceed user expectations and achieve exceptional metrics of user satisfaction and retention.</h3>
 
 
 <p align="left">
@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 I’m currently working on Storybook / Typescript.
-- 🌱 I’m currently learning Typescript, React, React Native, NextJS & Firebase Concepts, Backend /w Prisma and Typescript<p align="left">
+- 🌱 I’m currently learning Typescript, Backend /w Prisma and Fastify<p align="left">
 
 <h3 align="center">Languages and Tools:</h3>
 

@@ -7,7 +7,7 @@
   
 </p>
 
-- 🔭 I’m currently working on Storybook / Typescript.
+- 🔭 I’m currently working on Requester and Requester-be.
 - 🌱 I’m currently learning Typescript, Backend /w Prisma and Fastify<p align="left">
 
 <h3 align="center">Languages and Tools:</h3>

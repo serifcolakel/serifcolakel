@@ -1,14 +1,13 @@
 ### Hi there, I'm Serif COLAKEL. 👋
 
-<h3 align="center">Skilled in React, React Native, Expo, TypeScript, and Redux, I am an experienced Frontend Developer dedicated to creating user-centric applications that drive engagement and enhance the user experience. With a focus on delivering intuitive interfaces and seamless interactions, I strive to exceed user expectations and achieve exceptional metrics of user satisfaction and retention.</h3>
-
+<h3 align="center">Experienced in modern frontend (React, Angular, Vue) and backend (Node.js, NestJS and Go) tech. Passionate about clean code, architecture, and sharing knowledge through writing and documentation.</h3>
 
 <p align="left">
   
 </p>
 
-- 🔭 I’m currently working on Requester and Requester-be.
-- 🌱 I’m currently learning Typescript, Backend /w Prisma and Fastify<p align="left">
+- 🔭 I’m currently working/research on AI and LLM Stuff.
+- 🌱 I’m currently learning Golang<p align="left">
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -28,7 +27,7 @@
   <img  src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab_Logo" width="40" height="40"/> 
   <img  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
  
-  </p>
+</p>
   
 <h3 align="center">📫 Contact me:</h3>
 
@@ -42,7 +41,6 @@
 </p>
 
 <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=serifcolakel&show_icons=true&theme=tokyonight" width="450" height="200">
 </p>
 <p align="center">
@@ -52,7 +50,6 @@
 **serifcolakel/serifcolakel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 s
 Here are some ideas to get you started:
-
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ww...

@@ -1,6 +1,6 @@
 ### Hi there, I'm Serif COLAKEL. 👋
 
-<h3 align="center">Experienced in modern frontend (React, Angular, Vue) and backend (Node.js, NestJS and Go) tech. Passionate about clean code, architecture, and sharing knowledge through writing and documentation.</h3>
+<h3 align="center">Software Engineer focused on building scalable web, mobile, and AI-powered applications. Experienced in React, React Native, Next.js, Angular, Vue, Electron, TypeScript, Node.js, NestJS, Fastify, Express, and Golang. Worked extensively in the fintech and investment domain, developing real-time applications with WebSocket technologies, Backend-for-Frontend (BFF) services, and modern frontend architectures using micro frontends and monorepos. Currently focused on AI engineering, building agent runtimes, orchestration platforms, workflow automation tools, and LLM-powered applications using the Vercel AI SDK and modern AI ecosystems. I also build developer tools and fintech products, combining clean architecture, scalable engineering practices, and a strong passion for continuous learning, technical writing, and open-source development.</h3>
 
 <p align="left">
   

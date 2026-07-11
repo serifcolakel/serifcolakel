@@ -18,7 +18,6 @@
 <img src="https://komarev.com/ghpvc/?username=serifcolakel&color=green" alt="serifcolakel :: Profile Stats">
 <a href="mailto:serifcolakel0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-serifcolakel0@gmail.com-red?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/serifcolakel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@serifcolakel-blue?style=flat&logo=linkedin"></a>
-<a href="https://www.instagram.com/serifcolakell/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-serifcolakell-red?style=flat-square&logo=instagram"></a>
 
 </p>
 

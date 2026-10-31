@@ -1,35 +1,27 @@
-### Hi there, I'm Serif COLAKEL. 👋
+# Hi, I'm Serif Colakel 👋
 
-<h3 align="center">Software Engineer focused on building scalable web, mobile, and AI-powered applications. Experienced in React, React Native, Next.js, Angular, Vue, Electron, TypeScript, Node.js, NestJS, Fastify, Express, and Golang. Worked extensively in the fintech and investment domain, developing real-time applications with WebSocket technologies, Backend-for-Frontend (BFF) services, and modern frontend architectures using micro frontends and monorepos. Currently focused on AI engineering, building agent runtimes, orchestration platforms, workflow automation tools, and LLM-powered applications using the Vercel AI SDK and modern AI ecosystems. I also build developer tools and fintech products, combining clean architecture, scalable engineering practices, and a strong passion for continuous learning, technical writing, and open-source development.</h3>
+### AI Chapter Lead | Full-Stack Software Engineer
 
-<p align="left">
-  
-</p>
+I build software across web, mobile, desktop, backend, and AI platforms. My experience spans TypeScript, React, React Native, Next.js, Node.js, NestJS, .NET, and Go, with a background in banking, fintech, and investment products.
 
-- 🔭 I’m currently working/research on AI and LLM Stuff.
-- 🌱 I’m currently learning Golang<p align="left">
- 
-</p>
-  
-<h3 align="center">📫 Contact me:</h3>
+At Odeabank, I lead the technical direction and hands-on development of an internal AI platform. It brings together conversational AI, deterministic agents, reusable skills and prompts, and workflow automation. I also drive the development of approximately 20 .NET-based MCP servers that connect AI workflows to enterprise tools and data sources.
 
-<p align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=serifcolakel&color=green" alt="serifcolakel :: Profile Stats">
-<a href="mailto:serifcolakel0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-serifcolakel0@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/serifcolakel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@serifcolakel-blue?style=flat&logo=linkedin"></a>
+My work focuses on agent orchestration, MCP integrations, AI developer tooling, and helping engineering and analyst teams apply AI to real workflows. I’m interested in building secure, practical AI systems that go beyond basic chatbot experiences.
 
-</p>
+Outside my role, I build fintech products including the [Fonyx mobile app](https://apps.apple.com/us/app/fonyx/id6758161891) and the [TEFAS API](https://rapidapi.com/serifcolakel/api/tefas-api). I also write about software engineering and technology on [DEV.to](https://dev.to/serifcolakel) and [Medium](https://medium.com/@serifcolakel).
 
-<!--
-**serifcolakel/serifcolakel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current interests
 
-Here are some ideas to get you started:
+- Enterprise AI platforms and agentic systems
+- MCP servers, integrations, and tool design
+- Full-stack product engineering
+- Developer experience and AI-assisted development
+- Go and Rust
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ww...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me online
+
+- [LinkedIn](https://www.linkedin.com/in/serifcolakel/)
+- [GitHub](https://github.com/serifcolakel)
+- [DEV.to](https://dev.to/serifcolakel)
+- [Medium](https://medium.com/@serifcolakel)
+- [Email](mailto:serifcolakel0@gmail.com)
